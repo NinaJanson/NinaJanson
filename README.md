@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my first repository on GitHub.
-- 🌱 I’m currently learning how to code.
+- 🔭 I’m currently a student at <a href="https://github.com/coding-bootcamps-eu">Coding Bootcamps EU</a>.
+- 🌱 I’m currently learning HTML.
 - 😄 Pronouns: ambitious, eager to learn, adventurous,...
 
 <!--
