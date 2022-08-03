@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student at <a href="https://github.com/coding-bootcamps-eu">Coding Bootcamps EU</a>.
-- 🌱 I’m currently learning HTML, CSS, JS.
+- I am currently looking for a new exicting position as Junior Web Frontend Developer
+- 🔭 I studyied web developement at <a href="https://github.com/coding-bootcamps-eu">Coding Bootcamps EU</a>.
 - 😄 Pronouns: ambitious, eager to learn, adventurous,...
 
 <!--
